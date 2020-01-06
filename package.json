@@ -1,5 +1,5 @@
 {
-  "name": "redis-dataloader",
+  "name": "@wzrdtales/redis-dataloader",
   "version": "0.5.0",
   "description": "DataLoader Using Redis as a Cache",
   "main": "index.js",
